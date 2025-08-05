@@ -1,4 +1,4 @@
-**[Assignment 1: KNN]**  
+**[Assignment 1: K-NN]**  
 (1) Implementation of the k-nearest neighbor (k-NN) algorithm by yourself and  
 (2) Using the k-NN for classification based on MNIST dataset available at http://yann.lecun.com/exdb/mnist/ or on wine quality available at https://www.kaggle.com/shelvigarg/wine-quality-dataset/  
   
