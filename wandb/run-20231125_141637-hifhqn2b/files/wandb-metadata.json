@@ -1,0 +1,39 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.9.18",
+    "heartbeatAt": "2023-11-25T06:16:42.213247",
+    "startedAt": "2023-11-25T06:16:37.808837",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "c:\\Users\\Xin\\machinelearning\\MLP\\mlp.py",
+    "codePathLocal": "MLP\\mlp.py",
+    "codePath": "MLP\\mlp.py",
+    "host": "TABLET-OO80I350",
+    "username": "Xin",
+    "executable": "C:\\ProgramData\\Anaconda3\\envs\\tf\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1298.0,
+        "min": 0.0,
+        "max": 1498.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1298.0,
+            "min": 0.0,
+            "max": 1498.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 237.07128524780273,
+            "used": 232.74676132202148
+        }
+    },
+    "memory": {
+        "total": 15.595874786376953
+    }
+}

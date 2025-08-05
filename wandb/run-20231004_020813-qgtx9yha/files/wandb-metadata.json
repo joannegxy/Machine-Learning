@@ -1,0 +1,39 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.9.18",
+    "heartbeatAt": "2023-10-03T18:08:16.150318",
+    "startedAt": "2023-10-03T18:08:13.691755",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "c:\\Users\\Xin\\machinelearning\\KNN.py",
+    "codePathLocal": "KNN.py",
+    "codePath": "KNN.py",
+    "host": "TABLET-OO80I350",
+    "username": "Xin",
+    "executable": "C:\\ProgramData\\Anaconda3\\envs\\tf\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1298.0,
+        "min": 0.0,
+        "max": 1498.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1298.0,
+            "min": 0.0,
+            "max": 1498.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 237.07128524780273,
+            "used": 236.90441513061523
+        }
+    },
+    "memory": {
+        "total": 15.595874786376953
+    }
+}
